@@ -7,8 +7,8 @@
       <property name="hibernate.ogm.mongodb.database" value="recetas"/>
       <property name="hibernate.ogm.mongodb.host" value="127.0.0.1"/>
       <property name="hibernate.ogm.mongodb.port" value="27017"/>
-      <!-- <property name="hibernate.ogm.mongodb.username" value=""/>
-      <property name="hibernate.ogm.mongodb.password" value=""/>  -->
+      <property name="hibernate.ogm.mongodb.username" value=""/>
+      <property name="hibernate.ogm.mongodb.password" value=""/>
     </properties>
   </persistence-unit>
 </persistence>  
