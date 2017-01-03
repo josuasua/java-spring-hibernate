@@ -28,7 +28,8 @@ public class HibernateUtil {
         {
             System.out.println("SessionFactory is not Null");
         }
-        System.out.println(sessionFactory);
+        
+      //  System.out.println(sessionFactory);
         System.out.println(sessionFactory.getStatistics());
         return sessionFactory;
     }
